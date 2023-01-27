@@ -7,7 +7,7 @@ Performed Visualization & Analysis with NIFTY 50 Daily Data (2008 - 2023) .
 ## Features
 
 - Brief Overall Analysis
-- Data Fetching with nsepy API
+- Multiple Years Data Fetching with nsepy API & Storing Separate .csv
 - Combining & Creating single Master Data from multiple Years Daily Data
 - Analysing Volume, High / Low , Open / Close over a Yearly & Monthly timeframe.
 - Candle Sticks Charts (Thorughout, Yearly, Monthly)
